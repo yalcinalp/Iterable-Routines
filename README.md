@@ -13,9 +13,11 @@ This project implements a series of routines that perform actions on iterables. 
 - Memory efficient with constant memory usage
 - Custom ownership semantics for proper memory management
 
-## Functions Implemented
+## Function Specifications
 
 The following template functions are implemented:
+
+![image](https://github.com/user-attachments/assets/a3f9299e-d1e8-4b30-9acd-f5cd2a7b1635)
 
 1. `repeat(T v)` - Creates an infinite sequence of a value
 2. `count(T start, T delta)` - Creates an arithmetic sequence
@@ -50,6 +52,5 @@ The template parameter T supports:
 - No large containers allowed (arrays, vectors, etc.)
 - Constant memory usage required
 
+![image](https://github.com/user-attachments/assets/8cc79cea-1dfb-47c5-ae72-0a8b071d036d)
 
-# Function Specifications
-![image](https://github.com/user-attachments/assets/a3f9299e-d1e8-4b30-9acd-f5cd2a7b1635)
