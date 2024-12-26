@@ -34,7 +34,6 @@ The template parameter T supports:
 - Default and copy construction
 - Assignment operator =
 - Consistent +, += operators
-- * operator
 
 ### Ownership Semantics
 
